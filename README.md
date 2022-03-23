@@ -1,5 +1,5 @@
 # PyNCat
-Simple NetCat client written in Python
+Simple NetCat client/server written in Python
 
 # Basic Usage
 
